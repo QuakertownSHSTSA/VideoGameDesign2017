@@ -1,41 +1,40 @@
 /// @description moves bumber to mouse
 // You can write your code in this editor
-if(keyboard_check_pressed(vk_down))
+phy_position_x = mouse_x;
+phy_position_y = mouse_y;
+
+phy_linear_velocity_x = (mouse_x - LastMouse_x) / .15;
+phy_linear_velocity_y = (mouse_y - LastMouse_y) / .15;
+
+if(phy_linear_velocity_x < 0)
 {
-	phy_linear_velocity_y = 100;
+	subVelosity_x = (abs(phy_linear_velocity_x ) ^ 2) * -1;
+}
+else
+{
+	subVelosity_x = abs(phy_linear_velocity_x ) ^ 2;
 }
 
-if(keyboard_check_pressed(vk_up))
+if(phy_linear_velocity_y < 0)
 {
-	phy_linear_velocity_y = -100;
+	subVelosity_y = (abs(phy_linear_velocity_y ) ^ 2) * -1;
+}
+else
+{
+	subVelosity_y = abs(phy_linear_velocity_y ) ^ 2;
 }
 
-if(keyboard_check_pressed(vk_left))
+if(subVelosity_x + subVelosity_y < 0)
 {
-	phy_linear_velocity_x = -100;
+	subAngularVelosity =  sqrt(abs(subVelosity_x) + abs(subVelosity_y)) * -1;
+}
+else
+{
+	subAngularVelosity = sqrt(abs(subVelosity_x) + abs(subVelosity_y));
 }
 
-if(keyboard_check_pressed(vk_right))
-{
-	phy_linear_velocity_x = 100;
-}
+phy_angular_velocity = subAngularVelosity
 
-if(keyboard_check_released(vk_down))
-{
-	phy_linear_velocity_y = 0;
-}
 
-if(keyboard_check_released(vk_up))
-{
-	phy_linear_velocity_y = 0;
-}
-
-if(keyboard_check_released(vk_left))
-{
-	phy_linear_velocity_x = 0;
-}
-
-if(keyboard_check_released(vk_right))
-{
-	phy_linear_velocity_x = 0;
-}
+LastMouse_x = mouse_x;
+LastMouse_y = mouse_y;

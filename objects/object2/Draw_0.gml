@@ -31,3 +31,13 @@ draw_text(x + 0, y + 0, string("Bumper Vx:") + string(objRedBumber.phy_linear_ve
 /// @DnDArgument : "caption" ""Bumper Vy: ""
 /// @DnDArgument : "var" "objRedBumber.phy_linear_velocity_y"
 draw_text(x + 10, y + 10, string("Bumper Vy: ") + string(objRedBumber.phy_linear_velocity_y));
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDVersion : 1
+/// @DnDHash : 2F078386
+/// @DnDArgument : "x" "20"
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y" "20"
+/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "var" "fps"
+draw_text(x + 20, y + 20, string("Caption: ") + string(fps));
