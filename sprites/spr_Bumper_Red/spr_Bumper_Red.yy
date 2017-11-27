@@ -11,7 +11,7 @@
     "bbox_right": 36,
     "bbox_top": 0,
     "bboxmode": 0,
-    "colkind": 1,
+    "colkind": 2,
     "coltolerance": 0,
     "edgeFiltering": false,
     "frames": [
@@ -55,7 +55,7 @@
         }
     ],
     "origin": 4,
-    "originLocked": false,
+    "originLocked": true,
     "playbackSpeed": 1,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
