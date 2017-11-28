@@ -1,5 +1,7 @@
 /// @description moves bumber to mouse
 // You can write your code in this editor
+//velocity based on momentum
+//consevation of momentum in x and y 
 phy_position_x = mouse_x;
 phy_position_y = mouse_y;
 
