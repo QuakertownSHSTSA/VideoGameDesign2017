@@ -3,4 +3,4 @@
 //phy_position_x+=.5;
 //phy_position_y+=.5;
 
-
+move_bounce_all(false)

@@ -39,9 +39,6 @@ else
 	subAngularVelosity = sqrt(abs(subVelosity_x) + abs(subVelosity_y));
 }
 
-phy_angular_velocity = subAngularVelosity
-
-
 
 LastMouse_x = mouse_x;
 LastMouse_y = mouse_y;
