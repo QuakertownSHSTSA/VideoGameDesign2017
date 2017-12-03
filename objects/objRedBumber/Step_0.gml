@@ -53,27 +53,70 @@ else
 {
 	if(keyboard_check(ord("W")))
 	{
-		phy_linear_velocity_y = -500;
-	}
-		else if(keyboard_check(ord("S")))
+		wcounter++;
+		if(wcounter == 1)
 		{
-			phy_linear_velocity_y = 500;
+			phy_linear_velocity_y = -200;
 		}
+		
+		else if(phy_linear_velocity_y >= -1000)
+		{
+			phy_linear_velocity_y-=30;
+		}
+		
+		
+	}
+	
+	else if(keyboard_check(ord("S")))
+	{
+		scounter++;
+		if(scounter == 1)
+		{
+			phy_linear_velocity_y = 200;
+		}
+		
+		else if(phy_linear_velocity_y <= 1000)
+		{
+			phy_linear_velocity_y+=30;
+		}
+	}
 	else
 	{
 		phy_linear_velocity_y = 0;
+		scounter = 0;
+		wcounter = 0;
 	}
 	
 	if(keyboard_check(ord("A")))
 	{
-		phy_linear_velocity_x = -500;
-	}
-		else if(keyboard_check(ord("D")))
+		acounter++;
+		if(acounter == 1)
 		{
-			phy_linear_velocity_x = 500;
+			phy_linear_velocity_x = -200;
 		}
+		
+		else if(phy_linear_velocity_x >= -1000)
+		{
+			phy_linear_velocity_x-=30;
+		}
+	}
+	else if(keyboard_check(ord("D")))
+	{
+		dcounter++;
+		if(dcounter == 1)
+		{
+			phy_linear_velocity_x = 200;
+		}
+		
+		else if(phy_linear_velocity_x <= 1000)
+		{
+			phy_linear_velocity_x+=30;
+		}
+	}
 	else
 	{
 		phy_linear_velocity_x = 0;
+		acounter = 0;
+		dcounter = 0;
 	}
 }
