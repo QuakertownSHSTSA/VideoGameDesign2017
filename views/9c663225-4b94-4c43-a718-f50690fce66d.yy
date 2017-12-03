@@ -10,7 +10,8 @@
         "453fec9d-c3e9-48ae-83dd-d90279616bea",
         "af4e9616-ae11-422c-b0ec-aef653900f6d",
         "81d43491-9193-4a7e-8ac6-305f18892f83",
-        "f69cbcd9-1323-4559-9cc1-c4fc746265de"
+        "f69cbcd9-1323-4559-9cc1-c4fc746265de",
+        "326211b6-de4c-4731-99bc-f9c55291f527"
     ],
     "filterType": "GMSprite",
     "folderName": "Air Hockey",

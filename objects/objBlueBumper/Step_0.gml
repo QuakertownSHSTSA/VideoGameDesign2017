@@ -51,11 +51,11 @@ if(mouseControl)
 
 else
 {
-	if(keyboard_check(ord("W")))
+	if(keyboard_check(vk_up))
 	{
 		phy_linear_velocity_y = -500;
 	}
-		else if(keyboard_check(ord("S")))
+		else if(keyboard_check(vk_down))
 		{
 			phy_linear_velocity_y = 500;
 		}
@@ -64,11 +64,11 @@ else
 		phy_linear_velocity_y = 0;
 	}
 	
-	if(keyboard_check(ord("A")))
+	if(keyboard_check(vk_left))
 	{
 		phy_linear_velocity_x = -500;
 	}
-		else if(keyboard_check(ord("D")))
+		else if(keyboard_check(vk_right))
 		{
 			phy_linear_velocity_x = 500;
 		}

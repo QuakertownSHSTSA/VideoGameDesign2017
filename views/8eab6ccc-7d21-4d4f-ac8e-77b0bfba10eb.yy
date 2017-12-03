@@ -9,7 +9,9 @@
         "8f8c0ed4-61a7-4a21-b88d-367c43f05944",
         "46c89b6e-c300-41be-8518-66b3218bcc77",
         "27adf490-6fe6-4772-9bc5-6a8e175cc717",
-        "6214edd5-dc88-42b4-a8ad-a4223a69658e"
+        "6214edd5-dc88-42b4-a8ad-a4223a69658e",
+        "b57adf89-a346-478d-97bb-0680c37529ba",
+        "ccf5531d-0ab5-45ee-ac51-2d631998338b"
     ],
     "filterType": "GMObject",
     "folderName": "Air Hockey",
