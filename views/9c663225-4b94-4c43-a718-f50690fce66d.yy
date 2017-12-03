@@ -10,16 +10,12 @@
         "453fec9d-c3e9-48ae-83dd-d90279616bea",
         "af4e9616-ae11-422c-b0ec-aef653900f6d",
         "81d43491-9193-4a7e-8ac6-305f18892f83",
-<<<<<<< HEAD
         "f69cbcd9-1323-4559-9cc1-c4fc746265de",
 <<<<<<< HEAD
         "40e6d7d6-5792-4a8f-8c38-22f73d2aab4c"
 =======
         "326211b6-de4c-4731-99bc-f9c55291f527"
 >>>>>>> e4ba454233c5c9acc5093e38aa0ba6fe23424195
-=======
-        "f69cbcd9-1323-4559-9cc1-c4fc746265de"
->>>>>>> parent of af72b01... brices stuff
     ],
     "filterType": "GMSprite",
     "folderName": "Air Hockey",
