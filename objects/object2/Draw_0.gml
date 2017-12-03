@@ -39,14 +39,9 @@ draw_text(x + 10, y + 10, string("Bumper Vy: ") + string(objRedBumber.phy_linear
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "20"
 /// @DnDArgument : "y_relative" "1"
-<<<<<<< HEAD
 /// @DnDArgument : "caption" ""FPS: ""
-/// @DnDArgument : "var" "fps"
-draw_text(x + 20, y + 20, string("FPS: ") + string(fps));
-=======
-/// @DnDArgument : "var" "fps"
-draw_text(x + 20, y + 20, string("Caption: ") + string(fps));
->>>>>>> parent of 70be849... Merge branch 'master' of https://github.com/QuakertownSHSTSA/VideoGameDesign2017
+/// @DnDArgument : "var" "fps_real"
+draw_text(x + 20, y + 20, string("FPS: ") + string(fps_real));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
@@ -55,6 +50,17 @@ draw_text(x + 20, y + 20, string("Caption: ") + string(fps));
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "30"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "caption" ""red score""
-/// @DnDArgument : "var" "objredGoal.redscore"
-draw_text(x + 30, y + 30, string("red score") + string(objredGoal.redscore));
+/// @DnDArgument : "caption" ""red score: ""
+/// @DnDArgument : "var" "objBlueGoal.redscore"
+draw_text(x + 30, y + 30, string("red score: ") + string(objBlueGoal.redscore));
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDVersion : 1
+/// @DnDHash : 5605F70A
+/// @DnDArgument : "x" "40"
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y" "40"
+/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "caption" ""Blue Score:  ""
+/// @DnDArgument : "var" "objredGoal.bluescore"
+draw_text(x + 40, y + 40, string("Blue Score:  ") + string(objredGoal.bluescore));
