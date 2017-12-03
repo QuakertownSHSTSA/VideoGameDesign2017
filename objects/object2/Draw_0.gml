@@ -40,8 +40,8 @@ draw_text(x + 10, y + 10, string("Bumper Vy: ") + string(objRedBumber.phy_linear
 /// @DnDArgument : "y" "20"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "caption" ""FPS: ""
-/// @DnDArgument : "var" "fps_real"
-draw_text(x + 20, y + 20, string("FPS: ") + string(fps_real));
+/// @DnDArgument : "var" "fps"
+draw_text(x + 20, y + 20, string("FPS: ") + string(fps));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
