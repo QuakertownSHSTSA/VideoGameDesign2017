@@ -2,7 +2,7 @@
     "id": "43c0eb90-bb2e-47a2-9648-0d150591d0e4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objWallVert1",
+    "name": "objWallCent",
     "eventList": [
         
     ],
@@ -51,6 +51,6 @@
     ],
     "physicsStartAwake": true,
     "solid": true,
-    "spriteId": "02e00098-d147-43e5-8305-8477ca0ebb21",
+    "spriteId": "d0e1ad45-db9c-4e64-ac62-5ee75ff95ea3",
     "visible": true
 }

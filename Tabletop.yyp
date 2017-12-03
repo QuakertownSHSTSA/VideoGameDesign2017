@@ -172,25 +172,6 @@
             }
         },
         {
-            "Key": "1af1f4df-be54-4a6a-8f04-abad2ea7cc12",
-            "Value": {
-                "id": "9fc9ad35-ae88-4f91-993e-6697c0a09b78",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/object9\/object9.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "1afe05e4-80a1-4e75-9e9b-fa35a0f81607",
             "Value": {
                 "id": "38fe78f8-550e-43da-9ad9-41f048846818",
@@ -305,25 +286,6 @@
             }
         },
         {
-            "Key": "39c3759a-44aa-4645-9f04-e66f34f91a7c",
-            "Value": {
-                "id": "cfbe61dd-b489-4272-ad18-b3c55ce170e1",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/spr_Goal_Red\/spr_Goal_Red.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "401dfb63-0217-4fd9-814b-90a5bfeef3aa",
             "Value": {
                 "id": "86181607-dcb7-4c60-a4b7-de75fd1fbbad",
@@ -357,7 +319,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/objWallVert1\/objWallVert1.yy",
+                "resourcePath": "objects\/objWallCent\/objWallCent.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -438,25 +400,6 @@
             }
         },
         {
-            "Key": "7e5885dd-8e5c-44e6-9979-8133c496ebd3",
-            "Value": {
-                "id": "ad6f71fd-39a1-4574-9bbc-7d9f81b246ce",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/objGoals\/objGoals.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "7ebdd0a7-06e9-42ba-aad7-45e4de15403c",
             "Value": {
                 "id": "bf6f7c43-ec79-48e9-b5da-937d5e61d6cb",
@@ -511,25 +454,6 @@
                 ],
                 "resourcePath": "views\/814b1f1f-3d87-4a39-a20d-d40ff01e1186.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "8c60fa75-c8c9-49ec-81e5-4b06941e6a73",
-            "Value": {
-                "id": "e20b7147-9869-40e9-aa13-575eb5dbb639",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/object8\/object8.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -643,25 +567,6 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/spr_Puck\/spr_Puck.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a701258b-878a-4a48-94e1-7b38f632590c",
-            "Value": {
-                "id": "9bae1d32-d100-4121-bdcb-0a03ceb3ccee",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/spr_Goal_Blue\/spr_Goal_Blue.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -894,6 +799,25 @@
             }
         },
         {
+            "Key": "d0e1ad45-db9c-4e64-ac62-5ee75ff95ea3",
+            "Value": {
+                "id": "eea84c56-87aa-43b7-8b9e-1434a6110ef2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprWallCent\/sprWallCent.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e4b716da-0d46-4347-8e12-3393e5ab70b0",
             "Value": {
                 "id": "c91fb026-9bd9-4910-8fde-8f2bdb087f2d",
@@ -1024,25 +948,6 @@
                 ],
                 "resourcePath": "views\/fa9a90fb-f3b1-40ae-82e0-1680bc05034b.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "fe4e4b7f-53ee-4280-bc2e-0965c3733bef",
-            "Value": {
-                "id": "c3afe4ab-cb75-4dba-9e25-ca4a5b782f2f",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "shaders\/shader0\/shader0.yy",
-                "resourceType": "GMShader"
             }
         },
         {
