@@ -111,6 +111,25 @@
             }
         },
         {
+            "Key": "326211b6-de4c-4731-99bc-f9c55291f527",
+            "Value": {
+                "id": "44421070-7eff-433b-a117-05d9ed336b9d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprBlueGoal\/sprBlueGoal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3535f7df-839d-4a13-821c-9ad66defcb0c",
             "Value": {
                 "id": "f6cc13ea-430e-4a67-90ce-7313e1993047",
@@ -319,6 +338,25 @@
             }
         },
         {
+            "Key": "b57adf89-a346-478d-97bb-0680c37529ba",
+            "Value": {
+                "id": "d841056c-ba70-41a2-aadb-695d0bdca624",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objBlueBumper\/objBlueBumper.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b9cd73f9-f433-4a89-a472-c979d90eb809",
             "Value": {
                 "id": "631dc039-5af2-4d4e-8906-93d713f5e5a3",
@@ -364,6 +402,25 @@
                 "id": "b23d4546-cab6-47fa-8182-6323b7d2b5a5",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ccf5531d-0ab5-45ee-ac51-2d631998338b",
+            "Value": {
+                "id": "14c8ccc1-75d5-4016-8dc4-9ca299f86cae",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objBlueGoal\/objBlueGoal.yy",
+                "resourceType": "GMObject"
             }
         },
         {
