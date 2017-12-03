@@ -51,74 +51,32 @@ if(mouseControl)
 
 else
 {
-    if(keyboard_check(ord("W")))
+    if(keyboard_check(vk_up))
     {
-        wcounter++;
-        if(wcounter == 1)
-        {
-            phy_linear_velocity_y = -200;
-        }
-        
-        else if(phy_linear_velocity_y >= -1000)
-        {
-            phy_linear_velocity_y-=30;
-        }
-        
-        
+        phy_linear_velocity_y = -500;
     }
-    
-    else if(keyboard_check(ord("S")))
-    {
-        scounter++;
-        if(scounter == 1)
+        else if(keyboard_check(vk_down))
         {
-            phy_linear_velocity_y = 200;
+            phy_linear_velocity_y = 500;
         }
-        
-        else if(phy_linear_velocity_y <= 1000)
-        {
-            phy_linear_velocity_y+=30;
-        }
-    }
     else
     {
         phy_linear_velocity_y = 0;
-        scounter = 0;
-        wcounter = 0;
     }
     
-    if(keyboard_check(ord("A")))
+    if(keyboard_check(vk_left))
     {
-        acounter++;
-        if(acounter == 1)
-        {
-            phy_linear_velocity_x = -200;
-        }
-        
-        else if(phy_linear_velocity_x >= -1000)
-        {
-            phy_linear_velocity_x-=30;
-        }
+        phy_linear_velocity_x = -500;
     }
-    else if(keyboard_check(ord("D")))
-    {
-        dcounter++;
-        if(dcounter == 1)
+        else if(keyboard_check(vk_right))
         {
-            phy_linear_velocity_x = 200;
+            phy_linear_velocity_x = 500;
         }
-        
-        else if(phy_linear_velocity_x <= 1000)
-        {
-            phy_linear_velocity_x+=30;
-        }
-    }
     else
     {
         phy_linear_velocity_x = 0;
-        acounter = 0;
-        dcounter = 0;
     }
 }
+
 
 

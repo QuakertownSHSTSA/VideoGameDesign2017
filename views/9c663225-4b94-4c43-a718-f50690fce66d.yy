@@ -6,7 +6,10 @@
     "children": [
         "9cf83d77-7d85-42ba-abb2-67ee24400e4c",
         "1afe05e4-80a1-4e75-9e9b-fa35a0f81607",
-        "b9cd73f9-f433-4a89-a472-c979d90eb809"
+        "b9cd73f9-f433-4a89-a472-c979d90eb809",
+        "453fec9d-c3e9-48ae-83dd-d90279616bea",
+        "02e00098-d147-43e5-8305-8477ca0ebb21",
+        "7319e272-7a8c-466f-95f6-4a7959642db6"
     ],
     "filterType": "GMSprite",
     "folderName": "Air Hockey",
