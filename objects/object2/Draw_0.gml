@@ -39,5 +39,28 @@ draw_text(x + 10, y + 10, string("Bumper Vy: ") + string(objRedBumber.phy_linear
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "20"
 /// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "caption" ""FPS""
 /// @DnDArgument : "var" "fps"
-draw_text(x + 20, y + 20, string("Caption: ") + string(fps));
+draw_text(x + 20, y + 20, string("FPS") + string(fps));
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDVersion : 1
+/// @DnDHash : 5B808604
+/// @DnDArgument : "x" "30"
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y" "30"
+/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "caption" ""Red score ""
+/// @DnDArgument : "var" "obj_Goal_Blue.redscore"
+draw_text(x + 30, y + 30, string("Red score ") + string(obj_Goal_Blue.redscore));
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDVersion : 1
+/// @DnDHash : 653FEF97
+/// @DnDArgument : "x" "40"
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y" "40"
+/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "caption" ""Blue score ""
+/// @DnDArgument : "var" "obj_Goal_Red.bluescore"
+draw_text(x + 40, y + 40, string("Blue score ") + string(obj_Goal_Red.bluescore));
