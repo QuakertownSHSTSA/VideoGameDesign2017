@@ -514,6 +514,25 @@
             }
         },
         {
+            "Key": "8f41cd31-c4ca-4454-a4c3-3277b19a4a55",
+            "Value": {
+                "id": "3d528585-4ee3-40a8-8464-de525e5e8bff",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprrink1\/sprrink1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8f8c0ed4-61a7-4a21-b88d-367c43f05944",
             "Value": {
                 "id": "88385f5d-8a81-4db6-9998-474bf064c805",
