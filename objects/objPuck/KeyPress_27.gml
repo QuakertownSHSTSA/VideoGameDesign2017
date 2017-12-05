@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_goto(rmMenu)
+obj_Goal_Blue.redscore = 0;
+obj_Goal_Red.bluescore = 0;
+room_goto(rmMenu);
