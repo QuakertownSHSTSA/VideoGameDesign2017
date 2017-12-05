@@ -457,6 +457,25 @@
             }
         },
         {
+            "Key": "62f4ea0c-c250-4146-904a-0937953ed790",
+            "Value": {
+                "id": "6efc0265-188c-415b-8a78-a29c65c6ce2c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/62f4ea0c-c250-4146-904a-0937953ed790.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7319e272-7a8c-466f-95f6-4a7959642db6",
             "Value": {
                 "id": "195f891c-c970-415c-98a4-10dfeac7d0ad",
@@ -704,6 +723,25 @@
             }
         },
         {
+            "Key": "9d7814ac-eefe-47ad-9adf-a953beb4d969",
+            "Value": {
+                "id": "05a7d92f-192a-4b28-be5c-3062e00f8566",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/9d7814ac-eefe-47ad-9adf-a953beb4d969.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a76ba1b3-1a50-4d13-a1a8-18cd7ba65db0",
             "Value": {
                 "id": "2642c086-fb4c-4e55-af5c-121e8b3a64d8",
@@ -837,6 +875,25 @@
             }
         },
         {
+            "Key": "bdd856bb-ed13-4462-8f64-de8a2a8a3533",
+            "Value": {
+                "id": "98201349-8a4f-4997-83f3-a525fe43f333",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objCursor\/objCursor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c07b274f-17cc-4f75-8280-728c09e85a65",
             "Value": {
                 "id": "1be88436-57da-4b67-a736-13a9464cd413",
@@ -891,6 +948,44 @@
                 ],
                 "resourcePath": "views\/c73e6926-00a3-4be6-a5ad-9214d2e9a584.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cc5a1168-f351-4157-9e2b-c169352f25db",
+            "Value": {
+                "id": "32780653-1176-4ce7-8fc7-073bbb156fc0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprAirHockeyButton\/sprAirHockeyButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc664cc9-c25d-4abc-9317-8c86ad6fcef9",
+            "Value": {
+                "id": "fbc45512-d5c9-4169-a77d-b6e984a4a984",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprCursor\/sprCursor.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1157,6 +1252,25 @@
                 ],
                 "resourcePath": "views\/fa9a90fb-f3b1-40ae-82e0-1680bc05034b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fff71364-99cf-4ba1-90fe-fae05134a4e5",
+            "Value": {
+                "id": "1a487ad9-b688-43ea-86e1-17f2ea1c33c9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/objAirHockeyButton\/objAirHockeyButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
