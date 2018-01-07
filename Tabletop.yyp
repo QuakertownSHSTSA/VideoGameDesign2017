@@ -115,6 +115,44 @@
             }
         },
         {
+            "Key": "0d73a1b4-4769-47f5-9759-13521ed8e9e8",
+            "Value": {
+                "id": "fd9f665b-e755-44f9-bfbd-74b9fcf6a428",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_eight_ball\/spr_eight_ball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0df85e5f-ea39-4c63-ac6c-bae7fb1593ad",
+            "Value": {
+                "id": "1e951d4f-2a43-4aae-b105-3614c93edd03",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_three_ball\/spr_three_ball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0e78cb38-1eb9-4006-be6b-496a0f007321",
             "Value": {
                 "id": "947bd1e4-c7f4-4782-9c08-5d28c3ee5c60",
@@ -267,6 +305,25 @@
             }
         },
         {
+            "Key": "2cb3963e-a669-45c8-ac55-8e0ca0f3de68",
+            "Value": {
+                "id": "15575a4c-8207-4f21-b5f8-280ff10bc364",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_seven_ball\/spr_seven_ball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2d022ef0-966b-41f2-b28c-347a6048a879",
             "Value": {
                 "id": "245bd491-ca86-4bf5-a5a8-9d49c22476d2",
@@ -396,6 +453,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/sprrink\/sprrink.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "494dd87b-12d3-4e4c-9b96-a8b970cb2b12",
+            "Value": {
+                "id": "2a291237-33ab-447a-86fd-78577ad5f697",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_five_ball\/spr_five_ball.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -590,6 +666,25 @@
             }
         },
         {
+            "Key": "8af12808-b151-4288-b65f-08e62fea6e1e",
+            "Value": {
+                "id": "85bc0211-561c-4c52-b00d-ad366a4e4c2e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_one_ball\/spr_one_ball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8eab6ccc-7d21-4d4f-ac8e-77b0bfba10eb",
             "Value": {
                 "id": "3e57e1c5-3ada-4a0f-8215-9f8aa87ea5c6",
@@ -701,6 +796,25 @@
                 ],
                 "resourcePath": "views\/9c663225-4b94-4c43-a718-f50690fce66d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9c6f805a-e819-46b6-9c4e-6172b7e778e8",
+            "Value": {
+                "id": "176d4ddc-dc9b-46b7-973b-3f3608f9003e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_six_ball\/spr_six_ball.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -913,6 +1027,25 @@
             }
         },
         {
+            "Key": "c268841a-80d9-4e23-913b-6275fd5fc17b",
+            "Value": {
+                "id": "ab88e68f-1548-4d84-8238-e60074d9274f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_four_ball\/spr_four_ball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c3aada76-bd7e-42f6-be94-c1e26ed064c6",
             "Value": {
                 "id": "ce46f4b8-2a00-433f-a2a9-fbedfe396e37",
@@ -1065,6 +1198,25 @@
             }
         },
         {
+            "Key": "d33c8a35-30e3-465b-a570-a7dfd8d2db05",
+            "Value": {
+                "id": "b6431118-07df-4606-9a4e-fbdd461bcc20",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_two_ball\/spr_two_ball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d723dd84-3107-4c1e-bca0-dd14caad80b6",
             "Value": {
                 "id": "b84dbedb-b75b-4e19-b9ba-a7154fac31ed",
@@ -1100,6 +1252,25 @@
                 ],
                 "resourcePath": "objects\/obj_Goal_Blue\/obj_Goal_Blue.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e4302826-5686-48f0-85ad-fac69c04e9e3",
+            "Value": {
+                "id": "de150021-b2f3-454d-9735-500763a375df",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_n9ne_ball\/spr_n9ne_ball.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
