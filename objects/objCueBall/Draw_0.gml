@@ -3,6 +3,9 @@
 draw_self()
 if(mouse_check_button(mb_left))
 {
-	//draw_line_width_color(objCursor.x, objCursor.y, x, y, 5, c_white, c_white)
-	
+	arrowdestx = ((previousx - objCursor.x) / 3) + x
+	arrowdesty = ((previousy - objCursor.y) / 3) + y
+	draw_set_color(c_lime)
+	draw_arrow(x, y, arrowdestx, arrowdesty, 20)
+	draw_line_width(x, y, arrowdestx, arrowdesty, 2)
 }

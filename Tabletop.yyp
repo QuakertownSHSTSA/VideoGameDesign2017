@@ -74,7 +74,7 @@
             "Key": "09cb92fd-9edd-4d87-905c-21d3056a43fb",
             "Value": {
                 "id": "1c534e77-6072-446e-a0cf-bd2456219940",
-                "resourcePath": "objects\\object14\\object14.yy",
+                "resourcePath": "objects\\objBallEight\\objBallEight.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -186,17 +186,6 @@
             "Key": "2f0f2b57-7d06-476f-8415-3ba5d3cc5197",
             "Value": {
                 "id": "b0b6c11e-2c91-4531-95bb-05924d39d4d3",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/spr_eleven_ball1\/spr_eleven_ball1.yy",
                 "resourceType": "GMSprite"
             }
@@ -213,17 +202,6 @@
             "Key": "364b9556-08fb-42e1-ab80-13fe2ba95087",
             "Value": {
                 "id": "8b013243-a07b-43ed-9d05-49661dbf9c63",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/spr_twelve_ball11\/spr_twelve_ball11.yy",
                 "resourceType": "GMSprite"
             }
@@ -464,17 +442,6 @@
             "Key": "b013c920-b547-4fe8-a731-0e9648170d7c",
             "Value": {
                 "id": "168649a0-221c-42ad-b22e-a6eba7e248ca",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/spr_ten_ball\/spr_ten_ball.yy",
                 "resourceType": "GMSprite"
             }
@@ -485,6 +452,14 @@
                 "id": "8d77415c-dca1-449b-8f7d-3e4e6e24f63a",
                 "resourcePath": "sprites\/spr_Goal_Red\/spr_Goal_Red.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b43d92a1-5e32-4a20-afc9-c02e280d4d23",
+            "Value": {
+                "id": "ca2b6f09-77bb-4182-817a-8cb2a63e6a42",
+                "resourcePath": "objects\\objBallFive\\objBallFive.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -501,6 +476,14 @@
                 "id": "575b704a-d51d-48cf-92a9-5b58325daa37",
                 "resourcePath": "views\/bb6f91d0-03b6-4f9a-a56f-03a767f855e6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bd0aa63f-0f01-46e9-9f63-f7d1668cfd7c",
+            "Value": {
+                "id": "bd03b93b-924a-47dc-8c3b-1025cfbb3255",
+                "resourcePath": "objects\\objBallFour\\objBallFour.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -600,11 +583,35 @@
             }
         },
         {
+            "Key": "d4f1020a-2872-46bd-a867-e45fcbedc346",
+            "Value": {
+                "id": "da1541c9-6404-4150-afcc-78c57c58468e",
+                "resourcePath": "objects\\objBallOne\\objBallOne.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d723dd84-3107-4c1e-bca0-dd14caad80b6",
             "Value": {
                 "id": "b84dbedb-b75b-4e19-b9ba-a7154fac31ed",
                 "resourcePath": "fonts\/fntScore\/fntScore.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "d9d0727e-d263-4b6a-a6ab-6c66b4bfa139",
+            "Value": {
+                "id": "ebc0183e-a308-4867-bc9a-e2ea7438c38d",
+                "resourcePath": "objects\\objBallTwo\\objBallTwo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "db93d65c-097e-46d5-8a59-323179d86048",
+            "Value": {
+                "id": "eb8014fe-dccc-482d-93ed-aa4f41076590",
+                "resourcePath": "objects\\objBallThree\\objBallThree.yy",
+                "resourceType": "GMObject"
             }
         },
         {
