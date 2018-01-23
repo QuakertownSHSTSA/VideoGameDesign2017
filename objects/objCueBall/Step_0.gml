@@ -1,7 +1,6 @@
 /// @description allows movement of the cue ball by pressing and holding the mouse down
 
 //before running anything, tests if the mouse is even down
-
 if(mouse_check_button_pressed(mb_left))
 {
 	previousx = objCursor.x
