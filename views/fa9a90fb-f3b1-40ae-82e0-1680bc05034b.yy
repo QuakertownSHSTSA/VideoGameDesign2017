@@ -17,7 +17,11 @@
         "364b9556-08fb-42e1-ab80-13fe2ba95087",
         "b013c920-b547-4fe8-a731-0e9648170d7c",
         "2f0f2b57-7d06-476f-8415-3ba5d3cc5197",
-        "ee3eceea-c9c8-4391-bfaf-3869ff99aa68"
+        "ee3eceea-c9c8-4391-bfaf-3869ff99aa68",
+        "945a8a81-9bf2-474b-8b0a-45b9cf67ae63",
+        "1a09a801-c88d-4eb9-93e3-a3aa0f9c7466",
+        "f27fe7ce-5d04-4b57-8574-9e92f8c65c46",
+        "ccd704fe-63a8-458d-a300-3b6a077f78df"
     ],
     "filterType": "GMSprite",
     "folderName": "Pool",
