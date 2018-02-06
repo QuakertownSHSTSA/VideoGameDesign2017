@@ -13,7 +13,9 @@
         "b43d92a1-5e32-4a20-afc9-c02e280d4d23",
         "0092f9f6-1251-4a48-8a84-cce29745c2f5",
         "4c9f2cfb-815c-461d-a1f4-c7233cb2e28f",
-        "aaed115f-f6cd-4390-b6ec-33c0a57458aa"
+        "aaed115f-f6cd-4390-b6ec-33c0a57458aa",
+        "32c23fd3-416a-4eb8-8baf-620607c5c4ed",
+        "9ae800d9-28e4-4fbe-90ed-0c89510669d8"
     ],
     "filterType": "GMObject",
     "folderName": "Pool",
