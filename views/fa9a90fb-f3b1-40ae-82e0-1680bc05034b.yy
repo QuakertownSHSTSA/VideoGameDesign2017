@@ -24,7 +24,8 @@
         "945a8a81-9bf2-474b-8b0a-45b9cf67ae63",
         "1a09a801-c88d-4eb9-93e3-a3aa0f9c7466",
         "f27fe7ce-5d04-4b57-8574-9e92f8c65c46",
-        "ccd704fe-63a8-458d-a300-3b6a077f78df"
+        "ccd704fe-63a8-458d-a300-3b6a077f78df",
+        "668f7c45-864b-4899-83c3-5fd2098d00ee"
     ],
     "filterType": "GMSprite",
     "folderName": "Pool",
