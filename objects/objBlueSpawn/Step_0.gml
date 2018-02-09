@@ -2,7 +2,7 @@
 // You can write your code in this editor
 if(objShuffleWatch.turn == 1 and global.ballMade = false and ! global.moving)
 {
-	instance_create_depth(x, y, 0, ShuffelBall)
+	instance_create_depth(x, y, 0, ShuffelBallBlue)
 	global.ballMade = true;
 }
 

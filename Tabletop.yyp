@@ -330,7 +330,7 @@
             "Key": "59f1aa04-691e-4fe7-8537-40072378afd9",
             "Value": {
                 "id": "e7247180-4acf-49fe-a326-77293e60dcbe",
-                "resourcePath": "objects\\ShuffelBall\\ShuffelBall.yy",
+                "resourcePath": "objects\\ShuffelBallRed\\ShuffelBallRed.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -364,6 +364,14 @@
                 "id": "6efc0265-188c-415b-8a78-a29c65c6ce2c",
                 "resourcePath": "views\/62f4ea0c-c250-4146-904a-0937953ed790.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "65fafa57-920a-4f53-b21c-3575d9847774",
+            "Value": {
+                "id": "b7be5dff-ae6c-4034-96bb-54cc28a8c01a",
+                "resourcePath": "objects\\ShuffelBallBlue\\ShuffelBallBlue.yy",
+                "resourceType": "GMObject"
             }
         },
         {
