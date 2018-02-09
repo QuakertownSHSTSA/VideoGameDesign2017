@@ -1,5 +1,5 @@
 /// @description allows movement of the shuffleball by pressing and holding the mouse down
-if(abs(phy_linear_velocity_x)<=.1 and abs(phy_linear_velocity_y)<=.1 and objShuffleWatch.turn == 0)
+if(abs(phy_linear_velocity_x)<=.1 and abs(phy_linear_velocity_y)<=.1 and objShuffleWatch.turn == 0 and start)
 {
 	if(mouse_check_button_pressed(mb_left))
 	{
@@ -17,11 +17,15 @@ if(abs(phy_linear_velocity_x)<=.1 and abs(phy_linear_velocity_y)<=.1 and objShuf
 					
 		phy_linear_velocity_y = (previousy - mouse_y) * 3.5
 		phy_linear_velocity_x = (previousx - mouse_x) * 3.5
-		objShuffleWatch.turn = 1;			
+		objShuffleWatch.turn = 1;	
+		start = false;
+		global.moving = true;
+		global.ballMade = false;
+		objShuffleWatch.turn = 1	
 	}
 }
 
-if(abs(phy_linear_velocity_x)<=.1 and abs(phy_linear_velocity_y)<=.1 and objShuffleWatch.turn == 1)
+if(abs(phy_linear_velocity_x)<=.1 and abs(phy_linear_velocity_y)<=.1 and objShuffleWatch.turn == 1 and start)
 {
 	if(mouse_check_button_pressed(mb_left))
 	{
@@ -39,6 +43,13 @@ if(abs(phy_linear_velocity_x)<=.1 and abs(phy_linear_velocity_y)<=.1 and objShuf
 					
 		phy_linear_velocity_y = (previousy - mouse_y) * 3.5
 		phy_linear_velocity_x = (previousx - mouse_x) * 3.5
+		start = false;
+		global.moving = true;
+		global.ballMade = false;
 		objShuffleWatch.turn = 0			
 	}
+}
+if(abs(phy_linear_velocity_x)<=.1 and abs(phy_linear_velocity_y)<=.1)
+{
+	global.moving = false;
 }

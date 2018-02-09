@@ -1,8 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
+draw_self()	
 if(objShuffleWatch.turn == 0)
 {
-	draw_self()	
+		visible = true;
+
 	if(mouse_check_button(mb_left))
 	{
 		arrowdestx = ((previousx - mouse_x)) + x
