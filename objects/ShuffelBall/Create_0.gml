@@ -1,7 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
-previousy = 0
+if(objShuffleWatch.turn == 0)
+{
+	object_set_sprite(ShuffelBall, sprShuffleRed)	
+}
+else if(objShuffleWatch.turn == 1)
+{
+	object_set_sprite(ShuffelBall, sprShuffleBlue)
+}
+
 previousx = 0
-arrowdestx = 0
-arrowdesty = 0
-global.turn = 0;
+previousy = 0

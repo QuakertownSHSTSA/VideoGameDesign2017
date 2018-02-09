@@ -15,9 +15,6 @@ switch(scratch)
 						draw_set_color(c_lime)
 						draw_arrow(x, y, arrowdestx, arrowdesty, 20)
 						draw_line_width(x, y, arrowdestx, arrowdesty, 2)
-					
-			
-					
 				}
 			}
 	break;
