@@ -8,7 +8,9 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "153e0a01-a17b-4189-a78c-76841a1dda13",
-        "75e5c606-3dc2-4e46-82e0-b81b7586220d"
+        "75e5c606-3dc2-4e46-82e0-b81b7586220d",
+        "b76f4dcf-0cfc-4b7f-b05c-047f18404421",
+        "8c744a5e-424e-494c-b9d3-2bf42cc81727"
     ],
     "IsDnD": false,
     "layers": [
@@ -18,7 +20,7 @@
             "id": "d2b7c32a-5f17-4041-80e7-9f08cd03f047",
             "depth": 0,
             "grid_x": 32,
-            "grid_y": 32,
+            "grid_y": 16,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,
@@ -26,8 +28,10 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_662C2AC0","id": "153e0a01-a17b-4189-a78c-76841a1dda13","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_662C2AC0","objId": "fff71364-99cf-4ba1-90fe-fae05134a4e5","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 608,"y": 352},
-{"name": "inst_23CC84E3","id": "75e5c606-3dc2-4e46-82e0-b81b7586220d","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_23CC84E3.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_23CC84E3","objId": "bdd856bb-ed13-4462-8f64-de8a2a8a3533","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 2144,"y": 992}
+{"name": "inst_662C2AC0","id": "153e0a01-a17b-4189-a78c-76841a1dda13","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_662C2AC0","objId": "fff71364-99cf-4ba1-90fe-fae05134a4e5","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 608,"y": 0},
+{"name": "inst_23CC84E3","id": "75e5c606-3dc2-4e46-82e0-b81b7586220d","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_23CC84E3.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_23CC84E3","objId": "bdd856bb-ed13-4462-8f64-de8a2a8a3533","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 2144,"y": 992},
+{"name": "inst_59EEA5B1","id": "b76f4dcf-0cfc-4b7f-b05c-047f18404421","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_59EEA5B1","objId": "174f0cae-bb98-4b30-a7c7-d865af0dc50c","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 608,"y": 448},
+{"name": "inst_3BF54D06","id": "8c744a5e-424e-494c-b9d3-2bf42cc81727","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3BF54D06","objId": "86eb6bf9-6c71-4000-a87e-860b58c17432","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 608,"y": 912}
             ],
             "layers": [
 

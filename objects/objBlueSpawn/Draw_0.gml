@@ -4,7 +4,7 @@ draw_self()
 if(objShuffleWatch.turn == 1)
 {
 visible = true;
-	if(mouse_check_button(mb_left))
+	if(mouse_check_button(mb_left) and ! global.moving)
 	{
 		arrowdestx = ((previousx - mouse_x)) + x
 		arrowdesty = ((previousy - mouse_y)) + y

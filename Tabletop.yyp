@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "174f0cae-bb98-4b30-a7c7-d865af0dc50c",
+            "Value": {
+                "id": "3e0fa037-55b7-4201-9389-5dcdad769ca4",
+                "resourcePath": "objects\\objPoolButton\\objPoolButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "176bd2d8-7cac-452c-80de-195745352f06",
             "Value": {
                 "id": "91f30c08-94ef-4b0e-b9c9-51fdeebca05b",
@@ -242,7 +250,7 @@
             "Key": "358666c6-44c7-4a55-89ba-96d323f30137",
             "Value": {
                 "id": "0781d4c5-47a2-4691-b1c0-329c4506cde6",
-                "resourcePath": "sprites\\spr_thirteen_ball\\spr_thirteen_ball.yy",
+                "resourcePath": "sprites\\spr_twelve_ball\\spr_twelve_ball.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -250,7 +258,7 @@
             "Key": "364b9556-08fb-42e1-ab80-13fe2ba95087",
             "Value": {
                 "id": "8b013243-a07b-43ed-9d05-49661dbf9c63",
-                "resourcePath": "sprites\\spr_twelve_ball\\spr_twelve_ball.yy",
+                "resourcePath": "sprites\\spr_thirteen_ball\\spr_thirteen_ball.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -375,6 +383,14 @@
             }
         },
         {
+            "Key": "662e247d-c633-4094-b7d3-2ada7b99b8ff",
+            "Value": {
+                "id": "9eecb52e-c372-4be1-864c-fdda47170647",
+                "resourcePath": "sprites\\sprPoolButton\\sprPoolButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "668f7c45-864b-4899-83c3-5fd2098d00ee",
             "Value": {
                 "id": "8076fb80-9fb6-426d-9a94-5d848109056e",
@@ -387,14 +403,6 @@
             "Value": {
                 "id": "3e1865da-c4c5-49a3-ba4b-7ea676e7153c",
                 "resourcePath": "objects\\obVertPit\\obVertPit.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "6ec5758e-c10f-452e-972d-d40b03d58980",
-            "Value": {
-                "id": "fbe76297-63c4-436d-b3b2-b2cf86e39dd6",
-                "resourcePath": "objects\\objBallTwelve\\objBallTwelve.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -460,6 +468,14 @@
                 "id": "e31e0e11-4300-4c06-96fb-ef39ef58c4fb",
                 "resourcePath": "views\/814b1f1f-3d87-4a39-a20d-d40ff01e1186.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "86eb6bf9-6c71-4000-a87e-860b58c17432",
+            "Value": {
+                "id": "2c1520dd-ac70-43fa-8e5c-c9b21e629797",
+                "resourcePath": "objects\\objAirShuffleboardButton\\objAirShuffleboardButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -924,6 +940,14 @@
                 "id": "df23c22a-74b1-4618-aa61-6e8199fbf8e0",
                 "resourcePath": "views\/eee47196-1ee6-4d6d-9f25-f7b25b59e8f0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f0e59aa0-241a-4a31-8375-17935334e03d",
+            "Value": {
+                "id": "85b4db6c-03a9-408e-9387-5114b97de177",
+                "resourcePath": "sprites\\sprShuffleboarButton\\sprShuffleboarButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
